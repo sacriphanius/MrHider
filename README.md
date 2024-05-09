@@ -1,4 +1,4 @@
-# MrHider
+# MrHyder
 This Python script provides a simple interface for hiding and extracting files.
 It presents a menu to the user, allowing them to choose between two operations: file hiding or file extraction.
 
